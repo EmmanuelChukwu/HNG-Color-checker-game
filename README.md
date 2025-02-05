@@ -1,8 +1,3 @@
-# React + Vite
+# HNG Color-picker-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is part of my journey as a HNG intern. This project is basically an app where you choose a colored box which should correspond to the target color. You win when the score counter gets to ten and you lose when it gets to zero. 
